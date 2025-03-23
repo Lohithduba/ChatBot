@@ -28,14 +28,5 @@ Development Environment: Android Studio
 
 Libraries: RecyclerView, ViewModel, LiveData
 
-Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/chatbot-kotlin-xml.git
-
-Open the project in Android Studio.
-
-Build and run the project on an emulator or a physical device.
 
 Feel free to contribute by submitting a pull request. Make sure to follow coding standards and document your changes properly.
